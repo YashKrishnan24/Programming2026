@@ -6,7 +6,7 @@ public class pattern2Example {
                 if(j<=n-i){
                     System.out.print(" ");
                 }else{
-                    System.out.print("*");
+                    System.out.print("A");
                 }
                
             } System.out.println();
